@@ -1,0 +1,22 @@
+🔐 Privacy Policy (privacy.txt)
+Privacy Policy
+
+Your privacy is important to us. This Privacy Policy explains how we handle your data.
+
+1. Data Collected
+We only collect the necessary data to operate the app, such as your username and Discord user ID.
+
+2. Use of Data
+The data is used solely to provide features within the app and improve the user experience. We do not share any personal data with third parties.
+
+3. Data Security
+We take reasonable measures to protect your data from unauthorized access, loss, or disclosure.
+
+4. Data Retention
+We keep the data only as long as necessary to operate the service. You may request deletion of your data at any time.
+
+5. Your Rights
+You have the right to access, modify, or delete your data. Please contact us to exercise these rights.
+
+6. Contact
+For any questions regarding your data or this policy, please contact us at: slifryd@laposte.net or on discord: slifryd
